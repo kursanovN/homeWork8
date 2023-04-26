@@ -1,0 +1,22 @@
+.header{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px 0px 20px;
+    background-color: darkblue;
+}
+.header h1{
+    color: #fff;
+    font-weight: bold;
+    font-size: 40px;
+}
+.header Button{
+    width: 140px;
+    height: 50px;
+    background-color: #ff7200;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+}
